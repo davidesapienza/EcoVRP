@@ -1,0 +1,27 @@
+W,Curb weight of the vehicle (Kg)
+w,"Curb weight of the vehicle, including the dead load (Kg)"
+J,Maximum total weight (Kg)
+PHI,Weight of a Unit
+XI,Fuel-to-air mass ratio
+h,Engine friction factor (kilojoule/rev/liter)
+Z,Engine speed (rev/second)
+V,Engine displacement (liters)
+g,Gravitational constant (meter/ second 2 )
+Cd,Coefficient of aerodynamic drag
+Cr,Coefficient of rolling resistance
+DELTA,Air density (kilogram/ meter 3 )
+A,Vehicle frontal surface area (meter 2 )
+ETA,Vehicle drive train efficiency
+CHI,Efficiency parameter for diesel engines
+KAPPA,Heating value of a typical diesel fuel (kilojoule/ gram)
+PSI,Conversion factor (from gram/second to liter/second)
+OMEGA,Acceleration (meter/ sq. second)
+THETA,Road angle
+fc,Fuel and CO 2 emission cost per liter (?)
+S,average speed assumed (m/s)
+N_VEICOLI,
+CAPACITA,
+MAX_ITER,numero massimo di iterazioni dell’algoritmo
+LUN_TABU_INIZIALE,
+MAX_TABU,
+FREQUENZA_AGG,
